@@ -1,9 +1,14 @@
 # CODETECH--TASK-02
 **Name**: kumaravel Boopathi
+
 **Company**: CODETECHIT SOLUTIONS
+
 **ID**: CT08DS1885
+
 **Domain**: UI/UX Design
+
 **Duration**: June to July2024
+
 **Mentor**: Muzammil
 
 # Overview of the project
